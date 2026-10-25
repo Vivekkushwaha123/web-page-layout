@@ -1,0 +1,272 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.food-munch-logo {
+    width: 60px;
+    height: 40px;
+}
+
+.banner-section-bg-container {
+    background-image: url("https://d2clawv67efefq.cloudfront.net/ccbp-responsive-website/vr-banner-bg.png");
+    height: 100vh;
+    background-size: cover;
+}
+
+#navItem {
+    color: #323f4b;
+}
+
+#navItem2 {
+    color: #323f4b;
+}
+
+#navItem3 {
+    color: #323f4b;
+}
+
+#navItem4 {
+    color: #323f4b;
+}
+
+.heading {
+    color: white;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.button {
+    color: white;
+    background-color: #1a2137;
+    width: 130px;
+    height: 45px;
+    border-width: 0;
+    border-radius: 6px;
+    margin-right: 10px;
+}
+
+.card1 {
+    text-align: center;
+}
+
+.card-wcu {
+    text-align: center;
+}
+
+.heading-wcu-top {
+    font-size: 26px;
+    font-weight: bold;
+}
+
+.name {
+    color: #1f2933;
+    font-style: italic;
+    font-weight: 700;
+}
+
+.pp {
+    height: 55px;
+    width: 60px;
+}
+
+.heading-wcu {
+    font-size: 23px;
+    color: #1f2933;
+}
+
+.para-wcu {
+    color: #7b8794;
+}
+
+.kit-section {
+    background-color: #f9fbfe;
+}
+
+.heading-kit-top {
+    font-size: 26px;
+    font-weight: bold;
+}
+
+.photo-kit {
+    height: 250px;
+}
+
+.para-kit {
+    font-size: 19px;
+}
+
+.card-menu {
+    text-align: center;
+}
+
+.head-vr {
+    font-weight: bold;
+    font-size: 33px;
+}
+
+.para-vr {
+    color: #7b8794;
+    font-size: 18px;
+}
+
+.button-vr {
+    color: white;
+    background-color: #1a2137;
+    height: 40px;
+    width: 130px;
+    border-width: 0px;
+}
+
+.contact-section {
+    background-color: #222b36;
+    margin-top: 15px;
+}
+
+.heading-contact-top {
+    color: white;
+    font-weight: bold;
+    font-size: 28px;
+    text-align: center;
+}
+
+.photo-contact {
+    width: 270px;
+    margin-bottom: 20px;
+}
+
+.button-contact {
+    color: white;
+    background-color: transparent;
+    border-width: 1px;
+    border-style: solid;
+    border-color: white;
+    font-size: 14px;
+}
+
+.menu-item-links {
+    color: #1754a1;
+    font-weight: 500;
+}
+
+.heading-blog-top {
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.para-trending {
+    color: #959ead;
+    font-size: 16px;
+}
+
+.para-blog {
+    color: #332f4b;
+}
+
+.photo-blog {
+    border-radius: 11px;
+}
+
+.trending-card {
+    border-radius: 16px;
+}
+
+.sh {
+    height: 40px;
+    width: 130px;
+    background-color: #1754a1;
+    color: white;
+    border-width: 0px;
+}
+
+.product-heading {
+    font-size: 27px;
+    font-weight: bold;
+}
+
+.card-products {
+    background-image: url("https://d2clawv67efefq.cloudfront.net/ccbp-responsive-website/vr-products-headset-img.png");
+    background-size: cover;
+    height: 110vh;
+}
+
+.card-products1 {
+    background-image: url("https://d2clawv67efefq.cloudfront.net/ccbp-responsive-website/vr-products-headset-with-controllers-img.png");
+    background-size: cover;
+    height: 110vh;
+}
+
+.head-product {
+    font-size: 26px;
+    color: white;
+}
+
+.para-product {
+    color: white;
+    font-size: 15px;
+}
+
+.button-product {
+    background-color: #1f2933;
+    color: white;
+    border-width: 1px;
+    border-style: solid;
+    border-color: white;
+    font-size: 14px;
+}
+
+.button1 {
+    height: 40px;
+    width: 130px;
+    color: white;
+    background-color: #1754a1;
+    border-width: 0px;
+    font-size: 13px;
+}
+
+.footer-section {
+    background-color: #19232d;
+}
+
+.photo-footer {
+    height: 40px;
+    width: 60px;
+}
+
+.footer-container {
+    background-color: #202b36;
+    color: #959ead;
+    width: 80px;
+    height: 70px;
+    border-radius: 40px;
+    margin: 9px;
+    padding-top: 19px;
+    padding-bottom: 1px;
+    padding-right: 5px;
+    padding-left: 10px;
+    font-size: 24px;
+}
+
+.para-bottom {
+    color: #959ead;
+    text-align: center;
+}
+
+.footer-heading {
+    color: #959ead;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.para-footer {
+    color: #959ead;
+    font-size: 16px;
+}
+
+.text-footer {
+    color: #959ead;
+    font-size: 16px;
+    text-align: center;
+    font-weight: 300;
+}
+
+.bio-footer {
+    background-color: #959ead;
+}
